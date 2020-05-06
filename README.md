@@ -1,7 +1,7 @@
-# KafkaWithdotNetcore
-Kafka integration with dotnet core
+# Kafka integration with dotnet core
 
-configure kafka server on https://customer.cloudkarafka.com/instance
+
+configure kafka using cloud server at https://customer.cloudkarafka.com/instance
 
 it is developer free registration.
 
